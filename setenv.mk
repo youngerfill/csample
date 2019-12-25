@@ -1,0 +1,6 @@
+
+SOURCE_DIR:=$(PROJECT_ROOT)/src
+
+BABS_DIR:=$(PROJECT_ROOT)/babs
+
+BUILD_DIR:=$(HOME)/build/$(notdir $(PROJECT_ROOT))
